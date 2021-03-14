@@ -16,17 +16,17 @@ https://colab.research.google.com/github/vaishnavpardhi/colabsth/blob/main/Colab
 
 ## Command Usage for ColabSTH
 - for help menu
- - `!sth --help`
+  - `!sth --help`
 - for online mode  
- - `!sth -t "5f4dcc3b5aa765d61d8327deb882cf99"`
+  - `!sth -t "5f4dcc3b5aa765d61d8327deb882cf99"`
 - for offline(hashcat) mode with **-f**,make sure to upload hash file as **.txt** in your Google Drive **sth directory**
- - `!sth -f /root/.sth/hash.txt -o -w /root/.sth/rockyou.txt`
+  - `!sth -f /root/.sth/hash.txt -o -w /root/.sth/rockyou.txt`
 - for offline(hashcat) mode with **-t**,make sure to use **character escaping** for hashes containing **$**
- - `!sth -t "\$6\$GQXVvW4EuM\$ehD6jWiMsfNorxy5SINsgdlxmAEl3.yif0/c3NqzGLa0P.S7KRDYjycw5bnYkF5ZtB8wQy8KnskuWQS3Yr1wQ0" -o -w /root/.sth/rockyou.txt`
+  - `!sth -t "\$6\$GQXVvW4EuM\$ehD6jWiMsfNorxy5SINsgdlxmAEl3.yif0/c3NqzGLa0P.S7KRDYjycw5bnYkF5ZtB8wQy8KnskuWQS3Yr1wQ0" -o -w /root/.sth/rockyou.txt`
 
 ## Contributing
 Feel free to contribute,Issues and Pull Requests are always welcome.
 
 ## Credits
 Thank you [Bee](https://twitter.com/bee_sec_san) and [Jayy](https://github.com/Jayy001) for making this awesome tool [Search-That-Hash](https://github.com/HashPals/Search-That-Hash) and giving me opportunity to speed up its offline mode via [Google Colab](https://colab.research.google.com/).
-Check out there other awesome infosec tools [Name-That-Hash](https://github.com/HashPals/Name-That-Hash) and [Ciphey](https://github.com/ciphey/ciphey).
+Check out their other awesome infosec tools [Name-That-Hash](https://github.com/HashPals/Name-That-Hash) and [Ciphey](https://github.com/ciphey/ciphey).
