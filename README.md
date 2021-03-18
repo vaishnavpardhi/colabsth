@@ -1,8 +1,11 @@
-# ColabSTH
+<h1 align="center">CollabSTH</h1>
 
-### The colab version of [Search-That-Hash](https://github.com/HashPals/Search-That-Hash)
-
-Run [Search-That-Hash](https://github.com/HashPals/Search-That-Hash) from [Google colab](https://colab.research.google.com/) with fast offline(hashcat) mode
+<h4 align="center">
+<br>
+The colab version of <a href="https://github.com/HashPals/Search-That-Hash">Search-That-Hash</a>
+<br>
+Run <a href="https://github.com/HashPals/Search-That-Hash">Search-That-Hash</a> from <a href="https://colab.research.google.com/">Google colab</a> with fast offline(hashcat) mode
+</h4>
 
 ![demo](Pics/demo.png)
 
