@@ -1,4 +1,4 @@
-# ColabSTH
+# 🐧ColabSTH
 
 ### The colab version of [Search-That-Hash](https://github.com/HashPals/Search-That-Hash)
 
