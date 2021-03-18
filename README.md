@@ -1,9 +1,11 @@
 <h1 align="center">CollabSTH</h1>
-
 <h3 align="center">
-<br>
 The colab version of <a href="https://github.com/HashPals/Search-That-Hash">Search-That-Hash</a>
-<br>
+</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/HashPals/Search-That-Hash/main/Pictures/logo.gif">
+</p>
+<h3 align="center">
 Run <a href="https://github.com/HashPals/Search-That-Hash">Search-That-Hash</a> from <a href="https://colab.research.google.com/">Google colab</a> with fast offline(hashcat) mode
 </h3>
 
