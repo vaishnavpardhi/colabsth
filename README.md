@@ -6,7 +6,7 @@ Run [Search-That-Hash](https://github.com/HashPals/Search-That-Hash) from [Googl
 
 ![demo](Pics/demo.png)
 
-## Usage
+## 📖 Usage
 - Open the following link which will open copy of **Colabsth.ipynb** in your Google Colab
 https://colab.research.google.com/github/vaishnavpardhi/colabsth/blob/main/Colabsth.ipynb
 - In Google colab click on **Runtime** tab,then **Change runtime type** and select **Hardware accelerator** to GPU.
@@ -16,7 +16,7 @@ https://colab.research.google.com/github/vaishnavpardhi/colabsth/blob/main/Colab
 - The default wordlist **sth** uses is **rockyou.txt** in **offline mode**,but you can upload your custom wordlist in **sth** directory of Google Drive.
 - Edit the last cells to pick **sth** mode and run it.
 
-## Command Usage for ColabSTH
+## 💻 Command Usage for ColabSTH
 - for help menu
   - `!sth --help`
 - for online mode  
@@ -26,9 +26,9 @@ https://colab.research.google.com/github/vaishnavpardhi/colabsth/blob/main/Colab
 - for offline(hashcat) mode with **-t**,make sure to use **character escaping** for hashes containing **$**
   - `!sth -t "\$6\$GQXVvW4EuM\$ehD6jWiMsfNorxy5SINsgdlxmAEl3.yif0/c3NqzGLa0P.S7KRDYjycw5bnYkF5ZtB8wQy8KnskuWQS3Yr1wQ0" -o -w /root/.sth/rockyou.txt`
 
-## Contributing
+## 🤝 Contributing
 Feel free to contribute,Issues and Pull Requests are always welcome.
 
-## Credits
+## 🙏 Credits
 Thank you [Bee](https://twitter.com/bee_sec_san) and [Jayy](https://github.com/Jayy001) for making this awesome tool [Search-That-Hash](https://github.com/HashPals/Search-That-Hash) and giving me opportunity to speed up its offline mode via [Google Colab](https://colab.research.google.com/).
 Check out their other awesome infosec tools [Name-That-Hash](https://github.com/HashPals/Name-That-Hash) and [Ciphey](https://github.com/ciphey/ciphey).
