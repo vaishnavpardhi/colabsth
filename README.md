@@ -1,6 +1,6 @@
 # 🔍ColabSTH
 
-### The Colab version of [Search-That-Hash](https://github.com/HashPals/Search-That-Hash)
+### The colab version of [Search-That-Hash](https://github.com/HashPals/Search-That-Hash)
 
 Run [Search-That-Hash](https://github.com/HashPals/Search-That-Hash) from [Google colab](https://colab.research.google.com/) with fast offline(hashcat) mode
 
